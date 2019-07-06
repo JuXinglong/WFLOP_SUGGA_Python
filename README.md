@@ -9,5 +9,5 @@ If you have any questions, please email Feng Liu (*fliu0@mgh.harvard.edu*), or X
 
 <p align="center"> 
     <img width="400" src="/IMAGES/Jensen's wake model.png" alt="Jensen's wake model.png"/><br/>
-    Jensen's wake model.png.
+    Jensen's wake model
 </p>
