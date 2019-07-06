@@ -7,7 +7,4 @@ Energy Conversion and Management - Wind farm layout optimization based on suppor
 
 If you have any questions, please email Feng Liu (*fliu0@mgh.harvard.edu*), or Xinglong Ju (*xinglong.ju@mavs.uta.edu*).
 
-<p align="center"> 
-    <img width="400" src="/IMAGES/Jensen's wake model.png" alt="Jensen's wake model.png"/><br/>
-    Jensen's wake model.png.
-</p>
+
