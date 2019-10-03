@@ -113,7 +113,7 @@ if not os.path.exists(data_folder):
 # NA_loc is the not available locations on the wind farm land. Landowners does not want to participate in the wind farm.
 # pop_size: how many individuals in the population
 # iteration: iteration times of the genetic algorithm
-wfg = WindFarmGenetic.WindFarmGenetic(rows=cols_cells, cols=rows_cells, N=wt_N, NA_loc=NA_loc, pop_size=population_size,
+wfg = WindFarmGenetic.WindFarmGenetic(rows=rows_cells, cols=cols_cells, N=wt_N, NA_loc=NA_loc, pop_size=population_size,
                                       iteration=iteration_times,cell_width=cell_width, elite_rate=elite_rate,
                                              cross_rate=cross_rate, random_rate=random_rate, mutate_rate=mutate_rate)
 # Specify the wind distribution
